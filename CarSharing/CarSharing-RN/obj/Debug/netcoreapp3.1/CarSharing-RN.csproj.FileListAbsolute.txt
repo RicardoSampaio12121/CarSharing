@@ -1,0 +1,13 @@
+/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-RN/bin/Debug/netcoreapp3.1/CarSharing-RN.deps.json
+/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-RN/bin/Debug/netcoreapp3.1/CarSharing-RN.dll
+/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-RN/bin/Debug/netcoreapp3.1/CarSharing-RN.pdb
+/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-RN/bin/Debug/netcoreapp3.1/CarSharing-BO.dll
+/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-RN/bin/Debug/netcoreapp3.1/CarSharing-DL.dll
+/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-RN/bin/Debug/netcoreapp3.1/CarSharing-BO.pdb
+/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-RN/bin/Debug/netcoreapp3.1/CarSharing-DL.pdb
+/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-RN/obj/Debug/netcoreapp3.1/CarSharing-RN.csprojAssemblyReference.cache
+/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-RN/obj/Debug/netcoreapp3.1/CarSharing-RN.AssemblyInfoInputs.cache
+/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-RN/obj/Debug/netcoreapp3.1/CarSharing-RN.AssemblyInfo.cs
+/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-RN/obj/Debug/netcoreapp3.1/CarSharing-RN.csproj.CopyComplete
+/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-RN/obj/Debug/netcoreapp3.1/CarSharing-RN.dll
+/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-RN/obj/Debug/netcoreapp3.1/CarSharing-RN.pdb

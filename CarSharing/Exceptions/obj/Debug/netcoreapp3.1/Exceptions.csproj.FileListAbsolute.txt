@@ -1,0 +1,8 @@
+/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/Exceptions/obj/Debug/netcoreapp3.1/Exceptions.csprojAssemblyReference.cache
+/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/Exceptions/obj/Debug/netcoreapp3.1/Exceptions.AssemblyInfoInputs.cache
+/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/Exceptions/obj/Debug/netcoreapp3.1/Exceptions.AssemblyInfo.cs
+/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/Exceptions/bin/Debug/netcoreapp3.1/Exceptions.deps.json
+/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/Exceptions/bin/Debug/netcoreapp3.1/Exceptions.dll
+/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/Exceptions/bin/Debug/netcoreapp3.1/Exceptions.pdb
+/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/Exceptions/obj/Debug/netcoreapp3.1/Exceptions.dll
+/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/Exceptions/obj/Debug/netcoreapp3.1/Exceptions.pdb

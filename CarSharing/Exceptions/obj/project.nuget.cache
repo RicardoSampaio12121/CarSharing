@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ohX9Js9bcdok+Ov6y9hdLIjnEZr3qpOCvlFrAkzXgsf+XLTbE90w2xytFIxpYLbrsQ34pr0y30jNvM2CHB02eQ==",
+  "success": true,
+  "projectFilePath": "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/Exceptions/Exceptions.csproj",
+  "expectedPackageFiles": [
+    "/home/ricardo/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

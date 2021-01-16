@@ -1,0 +1,315 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-FE/CarSharing-FE.csproj": {}
+  },
+  "projects": {
+    "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-BO/CarSharing-BO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-BO/CarSharing-BO.csproj",
+        "projectName": "CarSharing-BO",
+        "projectPath": "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-BO/CarSharing-BO.csproj",
+        "packagesPath": "/home/ricardo/.nuget/packages/",
+        "outputPath": "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-BO/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ricardo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.8, 3.1.8]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.108/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-DL/CarSharing-DL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-DL/CarSharing-DL.csproj",
+        "projectName": "CarSharing-DL",
+        "projectPath": "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-DL/CarSharing-DL.csproj",
+        "packagesPath": "/home/ricardo/.nuget/packages/",
+        "outputPath": "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-DL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ricardo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-BO/CarSharing-BO.csproj": {
+                "projectPath": "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-BO/CarSharing-BO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.8, 3.1.8]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.108/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-FE/CarSharing-FE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-FE/CarSharing-FE.csproj",
+        "projectName": "CarSharing-FE",
+        "projectPath": "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-FE/CarSharing-FE.csproj",
+        "packagesPath": "/home/ricardo/.nuget/packages/",
+        "outputPath": "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-FE/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ricardo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-BO/CarSharing-BO.csproj": {
+                "projectPath": "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-BO/CarSharing-BO.csproj"
+              },
+              "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-RN/CarSharing-RN.csproj": {
+                "projectPath": "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-RN/CarSharing-RN.csproj"
+              },
+              "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/Exceptions/Exceptions.csproj": {
+                "projectPath": "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/Exceptions/Exceptions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.8, 3.1.8]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.108/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-RN/CarSharing-RN.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-RN/CarSharing-RN.csproj",
+        "projectName": "CarSharing-RN",
+        "projectPath": "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-RN/CarSharing-RN.csproj",
+        "packagesPath": "/home/ricardo/.nuget/packages/",
+        "outputPath": "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-RN/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ricardo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-BO/CarSharing-BO.csproj": {
+                "projectPath": "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-BO/CarSharing-BO.csproj"
+              },
+              "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-DL/CarSharing-DL.csproj": {
+                "projectPath": "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/CarSharing-DL/CarSharing-DL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.8, 3.1.8]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.108/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/Exceptions/Exceptions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/Exceptions/Exceptions.csproj",
+        "projectName": "Exceptions",
+        "projectPath": "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/Exceptions/Exceptions.csproj",
+        "packagesPath": "/home/ricardo/.nuget/packages/",
+        "outputPath": "/home/ricardo/RiderProjects/repo_18827_18843/CarSharing/Exceptions/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ricardo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.8, 3.1.8]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.108/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
