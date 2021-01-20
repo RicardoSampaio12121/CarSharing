@@ -200,6 +200,12 @@ namespace CarSharing_FE
                                                 contact = Console.ReadLine();
                                                 break;
                                         }
+
+                                        if (title.Length < 2 && description.Length < 2 && contact.Length < 2)
+                                        {
+                                            Console.WriteLine("Edition can't be empty!\nPress any key to continue...");
+                                            break;
+                                        }
                                         
                                         //Tries to update the ad
                                         try
@@ -307,16 +313,6 @@ namespace CarSharing_FE
                         break;
                 }
             }
-
-
-
-
-
-
-
-
-
-
         }
     }
 }
